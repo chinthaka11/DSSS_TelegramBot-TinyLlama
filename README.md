@@ -12,5 +12,5 @@ This is a Telegram bot that uses the TinyLlama language model to provide detaile
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/TelegramBot-TinyLlama.git
-   cd TelegramBot-TinyLlama
+   git clone https://github.com/chinthaka11/DSSS_TelegramBot-TinyLlama.git
+   cd DSSS_TelegramBot-TinyLlama
